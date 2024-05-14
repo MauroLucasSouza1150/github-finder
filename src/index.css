@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+}
+
+body {
+    background-color: rgb(0, 128, 128);
+    padding: 2rem;
+}
+
+p {
+    text-align: center;
+    color: #000000;
+}
+
+a {
+    text-decoration: none;
+}
